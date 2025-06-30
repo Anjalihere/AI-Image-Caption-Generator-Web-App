@@ -2,6 +2,10 @@
 
 A modern, interactive web application that generates descriptive captions for images using deep learning. Built with Flask, TensorFlow, and a beautiful, responsive UI.
 
+## 🎥 Demo
+
+> [![Watch the demo](https://img.youtube.com/vi/gI9u-Duokio/0.jpg)](https://www.youtube.com/watch?v=gI9u-Duokio)
+
 ---
 
 ## 🌟 Features
@@ -95,13 +99,6 @@ python-project-image-caption-generator/
 
 ---
 
-## 🎥 Demo
-
-> **[Attach your web app demo video here]**  
-> _You can upload a screen recording or a walkthrough of the app in action!_
-
----
-
 ## 🖼️ Example Usage
 
 1. Drag and drop or select an image.
@@ -149,28 +146,12 @@ python-project-image-caption-generator/
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
 ## 🙏 Acknowledgments
 
-- **Flickr8k Dataset:** Used for training the caption generation model
+- **[Flickr8k Dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip):** Used for training the caption generation model
+- **[Flickr_8k Text](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip):**  contains file Flickr8k.token which is the main file of our dataset that contains image name and their respective captions separated by newline(“\n”)
 - **TensorFlow/Keras:** Deep learning framework
 - **Flask:** Web framework
 
 ---
 
-**© 2024 AI Image Caption Generator. Powered by Deep Learning.** 
